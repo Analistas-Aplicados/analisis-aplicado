@@ -6,4 +6,4 @@ Códigos hechos para el curso de Análisis Aplicado en el ITAM.
 - José Manuel Proudinat Silva
 - Dioney Blanco Gonzalez
 - Roberto Lobato López
-- Juan Manuel Martinez Parente
+- Juan Bernardo Martinez Parente
