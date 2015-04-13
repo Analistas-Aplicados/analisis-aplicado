@@ -1,4 +1,5 @@
-# analisis-aplicado
+# Análisis Aplicado
+
 Códigos hechos para el curso de Análisis Aplicado en el ITAM.
 
 **Contribuyentes:**
